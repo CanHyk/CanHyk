@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @CanHyk
-- 👀 I’m interested in kotlin
-
 <h1 align="center">Merhaba 👋, ben Ömer</h1>
 <h3 align="center">Türkiye'den tutkulu bir android geliştiricisi</h3>
 
